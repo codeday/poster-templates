@@ -31,15 +31,15 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1600"
-   inkscape:window-height="881"
+   inkscape:window-width="1918"
+   inkscape:window-height="1060"
    id="namedview32703"
    showgrid="false"
-   inkscape:zoom="0.93181818"
-   inkscape:cx="306"
-   inkscape:cy="397.07317"
+   inkscape:zoom="0.65889495"
+   inkscape:cx="207.24687"
+   inkscape:cy="577.71213"
    inkscape:window-x="0"
-   inkscape:window-y="0"
+   inkscape:window-y="18"
    inkscape:window-maximized="0"
    inkscape:current-layer="_1" />
 <style
@@ -16734,24 +16734,32 @@
    id="path32596" />
 </g>
 <text
-   transform="matrix(1 0 0 1 33.7374 299.3549)"
    id="text32606"
-   style="-inkscape-font-specification:'Alte Haas Grotesk Bold';font-family:'Alte Haas Grotesk';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"><tspan
-     x="0"
-     y="0"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Alte Haas Grotesk';-inkscape-font-specification:'Alte Haas Grotesk Bold'"
+   x="33.7374"
+   y="294.04297"><tspan
+     x="33.7374"
+     y="294.04297"
      class="st6 st20 st21"
      id="tspan32600"
-     style="-inkscape-font-specification:'Alte Haas Grotesk Bold';font-family:'Alte Haas Grotesk';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;">CodeDay {{name}}</tspan><tspan
-     x="0"
-     y="37.7"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.01440048px;font-family:'Alte Haas Grotesk';-inkscape-font-specification:'Alte Haas Grotesk Bold';fill:#faf2f3">CodeDay {{name}}</tspan><tspan
+     x="33.7374"
+     y="331.74298"
      class="st6 st20 st21"
      id="tspan32602"
-     style="-inkscape-font-specification:'Alte Haas Grotesk Bold';font-family:'Alte Haas Grotesk';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;">{{month}} {{day}}-{{day+1}}, noon-noon</tspan><tspan
-     x="0"
-     y="75.4"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.01440048px;font-family:'Alte Haas Grotesk';-inkscape-font-specification:'Alte Haas Grotesk Bold';fill:#faf2f3">{{month}} {{day}}-{{day+1}}, noon-noon</tspan><tspan
+     x="33.7374"
+     y="369.44296"
      class="st6 st20 st21"
      id="tspan32604"
-     style="-inkscape-font-specification:'Alte Haas Grotesk Bold';font-family:'Alte Haas Grotesk';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;">Tix: CodeDay.org/{{url}}</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.01440048px;font-family:'Alte Haas Grotesk';-inkscape-font-specification:'Alte Haas Grotesk Bold';fill:#faf2f3">Tix: CodeDay.org/{{url}}</tspan><tspan
+     x="33.7374"
+     y="405"
+     class="st6 st20 st21"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.01440048px;font-family:'Alte Haas Grotesk';-inkscape-font-specification:'Alte Haas Grotesk Bold';fill:#faf2f3"
+     id="tspan9178">{%if promo%}(Use code {{promo}} for {%if promoFor%}{{promoFor}}{%else%}a discount{%endif%}!){%endif%}</tspan></text>
+
+
 
 <g
    id="g32700">
