@@ -36,7 +36,7 @@
    id="namedview32703"
    showgrid="false"
    inkscape:zoom="0.65889495"
-   inkscape:cx="207.24687"
+   inkscape:cx="296.44308"
    inkscape:cy="577.71213"
    inkscape:window-x="0"
    inkscape:window-y="18"
@@ -16754,10 +16754,11 @@
      id="tspan32604"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.01440048px;font-family:'Alte Haas Grotesk';-inkscape-font-specification:'Alte Haas Grotesk Bold';fill:#faf2f3">Tix: CodeDay.org/{{url}}</tspan><tspan
      x="33.7374"
-     y="405"
+     y="398"
      class="st6 st20 st21"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.01440048px;font-family:'Alte Haas Grotesk';-inkscape-font-specification:'Alte Haas Grotesk Bold';fill:#faf2f3"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.01440048px;font-family:'Alte Haas Grotesk';-inkscape-font-specification:'Alte Haas Grotesk Bold';fill:#faf2f3"
      id="tspan9178">{%if promo%}(Use code {{promo}} for {%if promoFor%}{{promoFor}}{%else%}a discount{%endif%}!){%endif%}</tspan></text>
+
 
 
 
