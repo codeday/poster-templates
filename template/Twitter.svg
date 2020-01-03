@@ -15,7 +15,7 @@
    version="1.1"
    id="svg38234"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="twitter.svg">
+   sodipodi:docname="Twitter.svg">
   <defs
      id="defs38228" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="700.27118"
-     inkscape:cy="169.53272"
+     inkscape:cx="905.16118"
+     inkscape:cy="193.83163"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,9 +36,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1600"
-     inkscape:window-height="863"
+     inkscape:window-height="881"
      inkscape:window-x="0"
-     inkscape:window-y="18"
+     inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata38231">
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -95,7 +95,7 @@
          x="209.32497"
          y="332.25253"
          style="font-size:6.58513546px;line-height:0.64999998;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan54202">at codeday.org/{{url}}</tspan></text>
+         id="tspan54202" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -174,5 +174,32 @@
        transform="matrix(0.33072917,0,0,-0.33072917,313.11254,228.59634)"
        id="g3444"
        style="fill:#ffffff;fill-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="113.39284"
+       y="314.38693"
+       id="text949"><tspan
+         sodipodi:role="line"
+         id="tspan947"
+         x="113.39284"
+         y="325.91141"
+         style="stroke-width:0.26458332"></tspan></text>
+    <text
+       id="text955"
+       y="316.58917"
+       x="209.32497"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.69999981px;line-height:0.64999998;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro Ultra-Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan951"
+         style="font-size:6.58513546px;line-height:0.64999998;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="316.58917"
+         x="209.32497"
+         sodipodi:role="line">codeday.org/{{url}}</tspan><tspan
+         id="tspan953"
+         style="font-size:6.58513546px;line-height:0.64999998;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="324.84418"
+         x="209.32497"
+         sodipodi:role="line" /></text>
   </g>
 </svg>
