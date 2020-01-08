@@ -26,5 +26,5 @@
 <text transform="matrix(1 0 0 1 43 75.895)"><tspan x="0" y="0" class="st2 st3 st4">Have you ever </tspan><tspan x="0" y="63.6" class="st2 st3 st4">wanted to make </tspan><tspan x="0" y="127.2" class="st2 st3 st4">your own game? </tspan><tspan x="0" y="190.8" class="st2 st3 st4">(or app?)</tspan><tspan x="0" y="318" class="st2 st3 st4">Come to CodeDay  </tspan><tspan x="0" y="381.6" class="st2 st3 st4"> </tspan><tspan x="0" y="445.2" class="st2 st3 st4">and we’ll help.</tspan><tspan x="0" y="547.2" class="st2 st3 st5">No experience necessary!</tspan><tspan x="0" y="585.6" class="st2 st3 st5">Register at:</tspan></text>
 <text transform="matrix(1 0 0 1 43 460.8066)" class="st2 st3 st4">({{month}} {{day}}-{{day+1}})</text>
 <text transform="matrix(1 0 0 1 42.9404 701.8066)" class="st2 st3 st5">codeday.org/{{url}}</text>
-<text transform="matrix(1 0 0 1 42.9404 741.8066)" class="st2 st3 st6">{%if promo%}(&amp; Use promo “{{promo}}” for {%if promoFor%}{{promoFor}}{%else%}a discount.{%endif}){%endif%}</text>
+<text transform="matrix(1 0 0 1 42.9404 741.8066)" class="st2 st3 st6">{%if promo%}(&amp; Use promo “{{promo}}” for {%if promoFor%}{{promoFor}}{%else%}a discount.{%endif%}){%endif%}</text>
 </svg>

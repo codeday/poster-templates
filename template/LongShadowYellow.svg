@@ -300,5 +300,5 @@
 	<path d="M320.34,752.26c0-0.92,0.76-1.6,1.66-1.6c0.92,0,1.7,0.68,1.7,1.6c0,0.94-0.78,1.62-1.7,1.62
 		C321.1,753.88,320.34,753.21,320.34,752.26z"/>
 </g>
-<text transform="matrix(1 0 0 1 82.4914 387.6664)"><tspan x="0" y="0" class="st4 st5">{{month}} {{day}}-{{day+1}}, Noon-Noon</tspan><tspan x="225.97" y="30" class="st4 st5">CodeDay.org/{{url}}</tspan><tspan x="65.82" y="74" class="st4 st5">{%if promo%}Use code “{{promo}}” </tspan><tspan x="-253.74" y="104" class="st4 st5">for {%if promoFor%}{{promoFor}}{%else%}a discount{%endif%}.</tspan></text>
+<text transform="matrix(1 0 0 1 82.4914 387.6664)"><tspan x="0" y="0" class="st4 st5">{{month}} {{day}}-{{day+1}}, Noon-Noon</tspan><tspan x="225.97" y="30" class="st4 st5">CodeDay.org/{{url}}</tspan><tspan x="65.82" y="74" class="st4 st5">{%if promo%}Use code “{{promo}}” </tspan><tspan x="-253.74" y="104" class="st4 st5">for {%if promoFor%}{{promoFor}}{%else%}a discount{%endif%}.{%endif%}</tspan></text>
 </svg>
