@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:none;}
+	.st2{fill:#FDFEFE;}
+	.st3{font-family:'SofiaPro-Bold';}
+	.st4{font-size:53px;}
+	.st5{font-size:32px;}
+	.st6{font-size:20px;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="306" y1="1.2941" x2="306" y2="793.2941">
+	<stop  offset="0" style="stop-color:#E31E26"/>
+	<stop  offset="0.2044" style="stop-color:#F68C1F"/>
+	<stop  offset="0.2138" style="stop-color:#F7911E"/>
+	<stop  offset="0.3355" style="stop-color:#FBD114"/>
+	<stop  offset="0.3903" style="stop-color:#FDEC06"/>
+	<stop  offset="0.6022" style="stop-color:#0D8140"/>
+	<stop  offset="0.8111" style="stop-color:#405FAB"/>
+	<stop  offset="0.9592" style="stop-color:#722A83"/>
+</linearGradient>
+<rect class="st0" width="612" height="792"/>
+<rect x="43" y="38" class="st1" width="529" height="680"/>
+<text transform="matrix(1 0 0 1 43 75.895)"><tspan x="0" y="0" class="st2 st3 st4">Have you ever </tspan><tspan x="0" y="63.6" class="st2 st3 st4">wanted to make </tspan><tspan x="0" y="127.2" class="st2 st3 st4">your own game? </tspan><tspan x="0" y="190.8" class="st2 st3 st4">(or app?)</tspan><tspan x="0" y="318" class="st2 st3 st4">Come to CodeDay  </tspan><tspan x="0" y="381.6" class="st2 st3 st4"> </tspan><tspan x="0" y="445.2" class="st2 st3 st4">and we’ll help.</tspan><tspan x="0" y="547.2" class="st2 st3 st5">No experience necessary!</tspan><tspan x="0" y="585.6" class="st2 st3 st5">Register at:</tspan></text>
+<text transform="matrix(1 0 0 1 43 460.8066)" class="st2 st3 st4">({{month}} {{day}}-{{day+1}})</text>
+<text transform="matrix(1 0 0 1 42.9404 701.8066)" class="st2 st3 st5">codeday.org/{{url}}</text>
+<text transform="matrix(1 0 0 1 42.9404 741.8066)" class="st2 st3 st6">{%if promo%}(&amp; Use promo “{{promo}}” for {%if promoFor%}{{promoFor}}{%else%}a discount.{%endif}){%endif%}</text>
+</svg>
