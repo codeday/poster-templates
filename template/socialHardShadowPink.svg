@@ -16,7 +16,7 @@
    viewBox="0 0 576 576"
    style="enable-background:new 0 0 576 576;"
    xml:space="preserve"
-   sodipodi:docname="SocialHardShadowPink.svg"
+   sodipodi:docname="socialHardShadowPink.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
    id="metadata1923"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
@@ -34,9 +34,9 @@
    inkscape:window-height="1060"
    id="namedview1919"
    showgrid="false"
-   inkscape:zoom="1.1588694"
-   inkscape:cx="90.77104"
-   inkscape:cy="310.51139"
+   inkscape:zoom="3.2777776"
+   inkscape:cx="149.60674"
+   inkscape:cy="241.44283"
    inkscape:window-x="0"
    inkscape:window-y="18"
    inkscape:window-maximized="0"
@@ -93,17 +93,13 @@
 <text
    id="text1748"
    x="204.91689"
-   y="357.71069"><tspan
+   y="365.70999"><tspan
      x="204.91689"
-     y="357.71069"
+     y="367.71069"
      class="st10 st4 st5"
      id="tspan1744"
-     style="font-size:26.63640022px;font-family:Sofia Pro;font-weight:700;text-align:end;text-anchor:end;fill:#d993c0">{{short_month}} {{day}}-{{day+1}}</tspan><tspan
-     x="204.91689"
-     y="379.3107"
-     class="st10 st4 st6"
-     id="tspan1746"
-     style="font-size:18px;font-family:Sofia Pro;font-weight:700;fill:#d993c0">{%if current_event.venue%}{{current_event.venue['name']}}{%else%}{{name}}{%endif%}</tspan></text>
+     style="font-weight:700;font-size:26.63640022px;font-family:'Sofia Pro';text-align:end;text-anchor:end;fill:#d993c0">{{short_month}} {{day}}-{{day+1}}</tspan></text>
+
 
 <g
    id="g1764">
@@ -154,6 +150,7 @@
      y="21.6"
      class="st10 st4 st6"
      id="tspan1770">CodeDay.org/{{url}}</tspan></text>
+
 
 <g
    id="g1916">
