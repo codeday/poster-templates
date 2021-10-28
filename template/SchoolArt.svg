@@ -2,14 +2,6 @@
 <!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    x="0px"
    y="0px"
@@ -18,7 +10,15 @@
    xml:space="preserve"
    id="svg3557"
    sodipodi:docname="SchoolArt.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
    id="metadata3563"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
@@ -31,17 +31,18 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1918"
-   inkscape:window-height="1060"
+   inkscape:window-width="1284"
+   inkscape:window-height="1041"
    id="namedview3559"
    showgrid="false"
    inkscape:zoom="0.5959596"
-   inkscape:cx="368.01647"
-   inkscape:cy="439.51609"
-   inkscape:window-x="0"
-   inkscape:window-y="18"
+   inkscape:cx="576.38135"
+   inkscape:cy="583.09322"
+   inkscape:window-x="197"
+   inkscape:window-y="0"
    inkscape:window-maximized="0"
-   inkscape:current-layer="Layer_2" />
+   inkscape:current-layer="Layer_2"
+   inkscape:pagecheckerboard="1" />
 <style
    type="text/css"
    id="style3275">
@@ -92,14 +93,14 @@
    height="58.28"
    id="rect3280" />
 		<text
-   transform="matrix(1 0 0 1 35.9999 270.429)"
+   transform="translate(35.9999,270.429)"
    id="text3286"><tspan
      x="0"
      y="0"
      class="st3 st4 st5"
      id="tspan3282">At CodeDay, students learn to use code to </tspan><tspan
      x="0"
-     y="29.7"
+     y="29.700001"
      class="st3 st4 st5"
      id="tspan3284">express their creativity.</tspan></text>
 
@@ -129,7 +130,7 @@
    height="196.48"
    id="rect3300" />
 	<text
-   transform="matrix(1 0 0 1 36 357.8398)"
+   transform="translate(36,357.8398)"
    id="text3330"><tspan
      x="0"
      y="0"
@@ -140,15 +141,15 @@
      class="st7 st8 st9"
      id="tspan3304">other students to make them a reality over a weekend.</tspan><tspan
      x="0"
-     y="32.4"
+     y="32.400002"
      class="st7 st8 st9"
      id="tspan3306">Students don’t need any coding experience to attend! Our staff and </tspan><tspan
      x="0"
-     y="45.6"
+     y="45.599998"
      class="st7 st8 st9"
      id="tspan3308">tech mentors will help them learn the code to bring their ideas to life.</tspan><tspan
      x="0"
-     y="64.8"
+     y="64.800003"
      class="st7 st8 st9"
      id="tspan3310">Since 2011, we’ve run more than 350 CodeDays in 49 cities worldwide, </tspan><tspan
      x="0"
@@ -160,18 +161,18 @@
      class="st7 st4 st9"
      id="tspan3314">CodeDay in a nutshell:</tspan><tspan
      x="11"
-     y="131.6"
+     y="131.60001"
      class="st7 st10 st9"
      id="tspan3316">∙ What:</tspan><tspan
-     x="47.17"
-     y="131.6"
+     x="47.169998"
+     y="131.60001"
      class="st7 st8 st9"
      id="tspan3318"> 24 hour long event where students make games/apps.</tspan><tspan
      x="11"
      y="145.8"
      class="st7 st10 st9"
      id="tspan3320">∙ Age range:</tspan><tspan
-     x="73.41"
+     x="73.410004"
      y="145.8"
      class="st7 st8 st9"
      id="tspan3322"> Middle school, high school, and college undergrads.</tspan><tspan
@@ -179,7 +180,7 @@
      y="160"
      class="st7 st10 st9"
      id="tspan3324">∙ Prerequisites:</tspan><tspan
-     x="86.33"
+     x="86.330002"
      y="160"
      class="st7 st8 st9"
      id="tspan3326"> None.</tspan><tspan
@@ -265,7 +266,7 @@
 	<g
    id="g3372">
 		<text
-   transform="matrix(1 0 0 1 36.7684 607.95)"
+   transform="translate(36.7684,607.95)"
    class="st3 st4 st9"
    id="text3370">What have students created in the past?</text>
 
@@ -281,7 +282,7 @@
    height="25.5"
    id="rect3374" />
 		<text
-   transform="matrix(1 0 0 1 118.3336 556.9831)"
+   transform="translate(118.3336,556.9831)"
    id="text3380"><tspan
      x="0"
      y="0"
@@ -339,7 +340,7 @@
    height="25.5"
    id="rect3406" />
 		<text
-   transform="matrix(1 0 0 1 295.8058 556.9831)"
+   transform="translate(295.8058,556.9831)"
    id="text3412"><tspan
      x="0"
      y="0"
@@ -406,18 +407,18 @@
    height="127.83"
    id="rect3440" />
 		<text
-   transform="matrix(1 0 0 1 401.3448 634.3164)"
+   transform="translate(401.3448,634.3164)"
    id="text3464"><tspan
      x="0"
      y="0"
      class="st7 st10 st9"
      id="tspan3442">More Past Projects:</tspan><tspan
      x="11"
-     y="18.2"
+     y="18.200001"
      class="st7 st10 st9"
      id="tspan3444">∙ Leon (LA) - </tspan><tspan
      x="74.07"
-     y="18.2"
+     y="18.200001"
      class="st7 st8 st9"
      id="tspan3446">Match chords on a </tspan><tspan
      x="17"
@@ -425,15 +426,15 @@
      class="st7 st8 st9"
      id="tspan3448">guitar to shoot enemies. </tspan><tspan
      x="11"
-     y="48.6"
+     y="48.599998"
      class="st7 st10 st9"
      id="tspan3450">∙ Anime Sprinter (Atlanta) - </tspan><tspan
-     x="148.99"
-     y="48.6"
+     x="148.99001"
+     y="48.599998"
      class="st7 st8 st9"
      id="tspan3452">An </tspan><tspan
      x="17"
-     y="61.8"
+     y="61.799999"
      class="st7 st8 st9"
      id="tspan3454">anime-art parkour game.</tspan><tspan
      x="11"
@@ -445,7 +446,7 @@
      class="st7 st8 st9"
      id="tspan3458">Choose your </tspan><tspan
      x="17"
-     y="92.2"
+     y="92.199997"
      class="st7 st8 st9"
      id="tspan3460">own adventure... in space.</tspan><tspan
      x="0"
@@ -465,14 +466,14 @@
    height="127.83"
    id="rect3468" />
 		<text
-   transform="matrix(1 0 0 1 218.5156 634.3164)"
+   transform="translate(218.5156,634.3164)"
    id="text3488"><tspan
      x="0"
      y="0"
      class="st7 st10 st9"
      id="tspan3470">TimeSwap</tspan><tspan
      x="0"
-     y="18.2"
+     y="18.200001"
      class="st7 st8 st9"
      id="tspan3472">In this game created by a team of </tspan><tspan
      x="0"
@@ -480,11 +481,11 @@
      class="st7 st8 st9"
      id="tspan3474">six beginners, a scientist chases </tspan><tspan
      x="0"
-     y="44.6"
+     y="44.599998"
      class="st7 st8 st9"
      id="tspan3476">his dog through history. His only </tspan><tspan
      x="0"
-     y="57.8"
+     y="57.799999"
      class="st7 st8 st9"
      id="tspan3478">weapon: a gun which sends </tspan><tspan
      x="0"
@@ -492,11 +493,11 @@
      class="st7 st8 st9"
      id="tspan3480">enemies back in time... where he’ll </tspan><tspan
      x="0"
-     y="84.2"
+     y="84.199997"
      class="st7 st8 st9"
      id="tspan3482">need to fight them again. </tspan><tspan
      x="0"
-     y="97.4"
+     y="97.400002"
      class="st7 st8 st9"
      id="tspan3484">Featuring hundreds of custom </tspan><tspan
      x="0"
@@ -551,7 +552,7 @@
 		<g
    id="g3508">
 			<text
-   transform="matrix(1 0 0 1 407.0025 365.6052)"
+   transform="translate(407.0025,365.6052)"
    class="st3 st4 st19"
    id="text3506">Ready to register?</text>
 
@@ -566,7 +567,7 @@
    height="214.33"
    id="rect3512" />
 	<text
-   transform="matrix(1 0 0 1 409 387.9831)"
+   transform="translate(409,387.9831)"
    id="text3536"><tspan
      x="0"
      y="0"
@@ -577,11 +578,11 @@
      class="st7 st8 st9"
      id="tspan3516"> </tspan><tspan
      x="0"
-     y="41.6"
+     y="41.599998"
      class="st7 st10 st9"
      id="tspan3518">Address:</tspan><tspan
      x="0"
-     y="55.8"
+     y="55.799999"
      class="st7 st8 st9"
      id="tspan3520"> </tspan><tspan
      x="0"
@@ -601,23 +602,24 @@
      class="st7 st8 st9"
      id="tspan3528">(scholarships available)</tspan><tspan
      x="0"
-     y="167.4"
+     y="167.39999"
      class="st7 st10 st9"
      id="tspan3530">Registration:</tspan><tspan
      x="0"
-     y="181.6"
+     y="181.60001"
      class="st7 st8 st9"
      id="tspan3532">Visit CodeDay.org or email </tspan><tspan
      x="0"
      y="194.8"
      class="st7 st8 st9"
-     id="tspan3534">schools@srnd.org</tspan></text>
+     id="tspan3534"
+     rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">schools@codeday.org</tspan></text>
 
 
 	<g
    id="g3540">
 		<text
-   transform="matrix(1 0 0 1 409 402.3336)"
+   transform="translate(409,402.3336)"
    class="st7 st8 st9"
    id="text3538">{{month}} {{day}}-{{day+1}}, noon-noon</text>
 
@@ -626,7 +628,7 @@
 	<g
    id="g3554">
 		<text
-   transform="matrix(1 0 0 1 409.0001 443.5222)"
+   transform="translate(409.0001,443.5222)"
    id="text3552"><tspan
      x="0"
      y="0"
