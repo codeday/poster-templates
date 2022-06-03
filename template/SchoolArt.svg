@@ -575,7 +575,7 @@
      x="0"
      y="124.8"
      class="st7 st8 st9"
-     id="tspan3526">$7/student</tspan><tspan
+     id="tspan3526">{{currency_symbol}}{{group_price}}/student</tspan><tspan
      x="0"
      y="139"
      class="st7 st8 st9"
