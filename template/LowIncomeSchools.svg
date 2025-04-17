@@ -131,31 +131,31 @@
     </g>
     <rect id="rect12646" class="st0" x="374.57" y="355.47" width="237" height="436.53"/>
     <g class="st5">
-      <text class="st7" transform="translate(412.54 387.63)"><tspan x="0" y="0">CodeDay {{name}}</tspan></text>
+      <text class="st7" transform="translate(387.48 387.63)"><tspan x="0" y="0">CodeDay {{name}}</tspan></text>
     </g>
     <g class="st5">
-      <text class="st7" transform="translate(344.77 413.33)"><tspan x="0" y="0">{{short_month}} {{day}}}, {{year}}</tspan></text>
+      <text class="st7" transform="translate(387.48 413.33)"><tspan x="0" y="0">{{short_month}} {{day}}, {{year}}</tspan></text>
     </g>
     <g class="st5">
-      <text class="st7" transform="translate(304.12 490.42)"><tspan x="0" y="0">Hosted @ {{current_event.venue[&apos;name&apos;]}}</tspan></text>
+      <text class="st7" transform="translate(387.48 490.42)"><tspan x="0" y="0">Hosted @ {{current_event.venue[&apos;name&apos;]}}</tspan></text>
     </g>
     <g class="st5">
-      <text class="st7" transform="translate(350.55 516.12)"><tspan x="0" y="0">{{current_event.venue[&apos;line_1&apos;]}}</tspan></text>
+      <text class="st7" transform="translate(387.48 516.12)"><tspan x="0" y="0">{{current_event.venue[&apos;line_1&apos;]}}</tspan></text>
     </g>
     <g class="st5">
-      <text class="st7" transform="translate(152.98 541.82)"><tspan x="0" y="0">{{current_event.venue[&apos;city&apos;]}}, {{current_event.venue[&apos;stateAbbreviation&apos;]}}</tspan></text>
+      <text class="st7" transform="translate(387.48 541.82)"><tspan x="0" y="0">{{current_event.venue[&apos;city&apos;]}}, {{current_event.venue[&apos;stateAbbreviation&apos;]}}</tspan></text>
     </g>
     <g class="st5">
-      <text class="st7" transform="translate(349.2 567.51)"><tspan x="0" y="0">{{current_event.venue[&apos;postal&apos;]}}</tspan></text>
+      <text class="st7" transform="translate(387.48 567.51)"><tspan x="0" y="0">{{current_event.venue[&apos;postal&apos;]}}</tspan></text>
     </g>
     <g class="st5">
-      <text class="st7" transform="translate(473.4 618.91)"><tspan x="0" y="0">Price:</tspan></text>
+      <text class="st7" transform="translate(387.48 618.91)"><tspan x="0" y="0">Price:</tspan></text>
     </g>
     <g class="st5">
-      <text class="st7" transform="translate(203.72 644.61)"><tspan x="0" y="0">FREE with {%if promo%}promo code{%else%}scholarship{%endif%}</tspan></text>
+      <text class="st7" transform="translate(387.48 644.61)"><tspan x="0" y="0">FREE with {%if promo%}promo code{%else%}scholarship{%endif%}</tspan></text>
     </g>
     <g class="st5">
-      <text class="st7" transform="translate(343.83 670.3)"><tspan x="0" y="0">{%if promo%}&quot;{{promo}}&quot;{%endif%}</tspan></text>
+      <text class="st7" transform="translate(387.48 670.3)"><tspan x="0" y="0">{%if promo%}&quot;{{promo}}&quot;{%endif%}</tspan></text>
     </g>
     <g class="st5">
       <text class="st6" transform="translate(385.8 721)"><tspan x="0" y="0">Free laptops</tspan></text>
@@ -164,10 +164,10 @@
       <text class="st8" transform="translate(504.62 721)"><tspan x="0" y="0" xml:space="preserve"> and uber rides </tspan></text>
     </g>
     <g class="st5">
-      <text class="st8" transform="translate(418.74 746)"><tspan x="0" y="0">available upon request!</tspan></text>
+      <text class="st8" transform="translate(387.48 746)"><tspan x="0" y="0">available upon request!</tspan></text>
     </g>
     <g class="st5">
-      <text class="st8" transform="translate(381.69 771)"><tspan x="0" y="0">email schools@codeday.org for info</tspan></text>
+      <text class="st8" transform="translate(387.48 771)"><tspan x="0" y="0">Email: schools@codeday.org</tspan></text>
     </g>
     <g id="text24844" class="st5">
       <g class="st5">
