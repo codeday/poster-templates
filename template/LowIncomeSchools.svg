@@ -137,16 +137,16 @@
       <text class="st7" transform="translate(387.48 413.33)"><tspan x="0" y="0">{{short_month}} {{day}}, {{year}}</tspan></text>
     </g>
     <g class="st5">
-      <text class="st7" transform="translate(387.48 490.42)"><tspan x="0" y="0">Hosted @ {{current_event.venue[&apos;name&apos;]}}</tspan></text>
+      <text class="st7" transform="translate(387.48 490.42)"><tspan x="0" y="0">Hosted @ {{current_event.venue["name"]}}</tspan></text>
     </g>
     <g class="st5">
-      <text class="st7" transform="translate(387.48 516.12)"><tspan x="0" y="0">{{current_event.venue[&apos;line_1&apos;]}}</tspan></text>
+      <text class="st7" transform="translate(387.48 516.12)"><tspan x="0" y="0">{{current_event.venue["line_1"]}}</tspan></text>
     </g>
     <g class="st5">
-      <text class="st7" transform="translate(387.48 541.82)"><tspan x="0" y="0">{{current_event.venue[&apos;city&apos;]}}, {{current_event.venue[&apos;stateAbbreviation&apos;]}}</tspan></text>
+      <text class="st7" transform="translate(387.48 541.82)"><tspan x="0" y="0">{{current_event.venue["city"]}}, {{current_event.venue["stateAbbreviation"]}}</tspan></text>
     </g>
     <g class="st5">
-      <text class="st7" transform="translate(387.48 567.51)"><tspan x="0" y="0">{{current_event.venue[&apos;postal&apos;]}}</tspan></text>
+      <text class="st7" transform="translate(387.48 567.51)"><tspan x="0" y="0">{{current_event.venue["postal"]}}</tspan></text>
     </g>
     <g class="st5">
       <text class="st7" transform="translate(387.48 618.91)"><tspan x="0" y="0">Price:</tspan></text>
